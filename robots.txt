@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahpheehowa.aiml.rocks/sitemap.xml
